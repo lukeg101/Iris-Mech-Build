@@ -12,7 +12,7 @@ The build itself has a brushed copper plate, acrylic base, Zealios v2 67g tactil
 
 <p align="center">
 <img src="images/IMG_8335.JPG" width="50%">
-<img src="images/IMG_7995.JPG" width="50%">
+<img src="images/IMG_7997.jpg" width="50%">
 </p>
 
 ## Build List
