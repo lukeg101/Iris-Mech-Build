@@ -7,6 +7,4 @@ The build itself has a brushed copper plate, acrylic base, Zealios v2 67g tactil
 - Links to the images can be found [here](images/).
 - Link to the QMK space cadet Iris Firmware (coming soon!)
 
-<center>
-<img src="images/IMG_8335.JPG" width="70%">
-</center>
+<img align="center" src="images/IMG_8335.JPG" width="70%">
