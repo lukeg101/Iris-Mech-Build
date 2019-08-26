@@ -11,7 +11,8 @@ The build itself has a brushed copper plate, acrylic base, Zealios v2 67g tactil
 - Link to the switch plate design file can be found [here](./iris-switch-plate.dxf)
 
 <p align="center">
-<img src="images/IMG_8335.JPG" width="70%">
+<img src="images/IMG_8335.JPG" width="50%">
+<img src="images/IMG_7995.JPG" width="50%">
 </p>
 
 ## Build List
