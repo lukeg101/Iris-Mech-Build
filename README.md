@@ -1,6 +1,10 @@
 # Iris Split Ergonomic Mechanical Keyboard Build
 I’ve been experimenting with ergonomic set-ups and the wonders of mechanical keyboards, and so I decided to build my own!
 
+<p align="center">
+<img src="images/IMG_8335.JPG" width="50%">
+</p>
+
 This is the repo for my Iris Mechanical Keyboard Build. Here you can find the images taken during the build, the source code for the QMK firmware (coming soon!), and more information about the build.
 
 The build itself has a brushed copper plate, acrylic base, Zealios v2 67g tactile switches, Iris Rev2 PCBs, and green LEDs to give a Copper Oxide effect without the rust.
@@ -11,7 +15,7 @@ The build itself has a brushed copper plate, acrylic base, Zealios v2 67g tactil
 - Link to the switch plate design file can be found [here](./iris-switch-plate.dxf)
 
 <p align="center">
-<img src="images/IMG_8335.JPG" width="50%"> <img src="images/IMG_7997.jpg" width="50%">
+<img src="images/IMG_7997.jpg" width="50%">
 </p>
 
 ## Build List
