@@ -4,6 +4,7 @@ This is the repo for my Iris Mechanical Keyboard Build. Here you can find the im
 The build itself has a brushed copper plate, acrylic base, Zealios v2 67g tactile switches, Iris Rev2 PCBs, and green LEDs to give a Copper Oxide effect without the rust.
 
 - The blog post and build log can be found [here](https://lukegeeson.com/blog/2019-07-17-Iris-Split-Mech-Keyboard-Build/).
-- Links to the images can be found [here]().
+- Links to the images can be found [here](images/).
+-
 
-<img src="images/IMG_8335.JPG" width="40%">
+<img src="images/IMG_8335.JPG" width="70%">
