@@ -6,7 +6,12 @@ The build itself has a brushed copper plate, acrylic base, Zealios v2 67g tactil
 - The blog post and build log can be found [here](https://lukegeeson.com/blog/2019-07-17-Iris-Split-Mech-Keyboard-Build/).
 - Links to the images can be found [here](images/).
 - Link to the QMK space cadet Iris Firmware (coming soon!)
+- Link to the switch plate design file (for laserboost) can be found [here](./iris-switch-plate.dxf)
 
 <p align="center">
 <img src="images/IMG_8335.JPG" width="70%">
 </p>
+
+## Build List
+## Build Log
+## 
