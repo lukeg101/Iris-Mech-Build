@@ -35,7 +35,16 @@ To build this you will need the following:
 12. A micro USB cable
 13. Optional LED [strip](https://keeb.io/products/rgb-led-strips-sk6812-ws2812b-compatible) for under-glow
 
+The build also assumes you have:
 
+- Access to a soldering iron, (lead-free) solder, an extractor
+- Access to pliers to cut the spare wires
+- A solder sucker if you make mistakes
+- Some handy screwdrivers
+- A machine to flash QMK onto the board, with a recent version of GCC to compile as needed.
 
 ## Build Log
+
+The build log is on my [blog](https://lukegeeson.com/blog/2019-07-17-Iris-Split-Mech-Keyboard-Build/) along with a thorough look into the build, process, and more!
+
 ## 
