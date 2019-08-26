@@ -27,6 +27,14 @@ To build this you will need the following:
 4. Signature Plastics DSA profile dye-sublimated [key caps](https://pimpmykeyboard.com/dsa-sublimated-keysets/) in off-white and grey (GEK and GKK). 
 5. 2x [Elite-C USB C micro-controller](https://spacecat.design/products/elite-c-usb-c-pro-micro-replacement) to drive the boards.
 6. 2x [Acrylic base](https://keeb.io/products/iris-keyboard-case-plates?variant=29417785983070)
+7. 60x 1.8mm [Green through-hole LEDs](https://www.ebay.co.uk/itm/281491590196). This is optional if you want LEDs
+8. 60x 1N4148TR [Diodes](https://uk.farnell.com/on-semiconductor/1n4148tr/diode-100v-200ma-do-35/dp/9843680?CMP=i-ddd7-00001003)
+9. 60x Carbon Film [Resistors](https://www.ebay.co.uk/itm/Carbon-Film-Resistors-1-4W-0-25W-Full-Range-of-Values-Various-Pack-Sizes/152059712084?hash=item2367771254:m:mmv0u0bUeNDzAHY6xUyeLew) 1/4W 0.25W
+10. [TRRS](https://keeb.io/collections/split-keyboard-parts/products/trrs-cable?variant=46391966598) cable
+11. LED [add-on](https://keeb.io/products/led-support-components-add-on?_pos=1&_sid=ca08f142f&_ss=r) kit (MOSFETs etc...). This is optional if you want LEDs.
+12. A micro USB cable
+13. Optional LED [strip](https://keeb.io/products/rgb-led-strips-sk6812-ws2812b-compatible) for under-glow
+
 
 
 ## Build Log
